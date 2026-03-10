@@ -29,16 +29,16 @@
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilecristine&theme=dracula" alt="GitHub Streak"/>
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emilecristine&theme=dracula" alt="GitHub Activity Graph"/>
-</div>
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=emilecristine&theme=dracula&no-frame=true&row=2&column=4"/>
+</div>
+
+## 📈 Minha Atividade no GitHub
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emilecristine&theme=dracula&bg_color=00000000&hide_border=true" width="100%"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilecristine&theme=dracula&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 📫 Connect with me
@@ -53,6 +53,7 @@
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
+
 
 <div align="center">
   <img src="https://github.com/emilecristine/emilecristine/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
