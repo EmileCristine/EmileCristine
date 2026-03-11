@@ -51,12 +51,12 @@ const emile: Developer = {
 
 <h3><span style="color: #ec4899">Vion – Data Challenge (2025)</span></h3>
 
-> Project developed by squad <strong style="color: #6d28d9">Error 504</strong>, achieving <strong>2nd place nationwide</strong> in the Data Challenge with the prototype <strong style="color: #ec4899">Vion</strong>.  
+> Project developed by squad <strong style="color: #6d28d9">Error 504</strong>, achieving <strong>2nd place nationwide</strong> in the Desafio dos Dados with the prototype <strong style="color: #ec4899">Vion</strong>.  
 > An intelligent solution for home network diagnostics, focused on practicality and security for everyday users.
 
 <h3><span style="color: #6d28d9">Vivo Conecta – Data Challenge (2024)</span></h3>
 
-> Project developed by squad <strong style="color: #ec4899">Error 504</strong>, reaching <strong>3rd place nationwide</strong> in the Data Challenge by <strong style="color: #6d28d9">Fundação Telefônica Vivo</strong>.  
+> Project developed by squad <strong style="color: #ec4899">Error 504</strong>, reaching <strong>3rd place nationwide</strong> in the Desafio dos Dados by <strong style="color: #6d28d9">Fundação Telefônica Vivo</strong>.  
 > Our project combines technology, innovation and social impact.
 
 </div>
