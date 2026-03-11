@@ -1,81 +1,96 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&gradient=6d28d9,ec4899" width="100%"/>
+
+<!-- Animated header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Emile+Cristine&descAlign=50&descAlignY=50&textBg=false&reversal=false&fontSize=35&animation=fadeIn&desc=Front+end+Developer&fontAlign=50&fontAlignY=37" />
+
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ec4899&center=true&vCenter=true&width=700&lines=Systems+Development+Technician+%F0%9F%8E%93;Front-end+Developer+%7C+React+Native+%7C+TypeScript+%F0%9F%92%9C;Every+pixel+has+a+purpose+%E2%9C%A8" alt="Typing SVG" />
+</a>
 </div>
+
+## About me
+
+```typescript
+const emile: Developer = {
+  name:       "Emile Cristine Gomes Nogueira",
+  education:  "Systems Development Technician | Computer Engineering @ PUC Campinas",
+  location:   "Hortolândia - SP",
+  role:       "Front-end Developer",
+  stack:      ["TypeScript", "JavaScript", "React Native", "React", "C#", "C", "Python"],
+  achievements: [
+    "3rd place – GLAUKS @ Projetech ETEC Hortolândia",
+    "2nd place nationwide – Vion @ Desafio dos Dados 2025",
+    "3rd place nationwide – Vivo Conecta @ Desafio dos Dados 2024",
+  ],
+  quote: "Every line of code is an opportunity to create something that matters 💜",
+};
+```
 
 <br/>
 
-<div align="center"> 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ec4899&center=true&vCenter=true&lines=Emile+Cristine;Hi+there+👋;Welcome!;&font=Fira%20Code&duration=3000&pause=1000&size=45" alt="Typing SVG" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <a href="https://github.com/EmileCristine">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emilecristine&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilecristine&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emilecristine&theme=dracula&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/><br/>
-
 <h2 align="center">
-  <span style="color: #6d28d9">Projetos</span>
+  <span style="color: #ec4899">🏆</span> <span style="color: #6d28d9">Projects</span>
 </h2>
 
 <div style="margin-left: 5%; margin-right: 5%;">
-  
-### <span style="color: #ec4899">GLAUKS – TCC</span>
 
-> <strong style="color: #6d28d9">Trabalho de Conclusão de Curso</strong> desenvolvido com minha colega <strong style="color: #ec4899">Julia Franco</strong>.  
-> Criamos um aplicativo e plataforma web para <strong>gestão de acervos</strong> em bibliotecas escolares.  
-> O projeto recebeu o 🥉<strong>3º lugar</strong> na categoria <em style="color: #6d28d9">Projeto Destaque</em> da feira científica <strong>Projetech</strong> da <strong>ETEC de Hortolândia</strong>.
+### <span style="color: #ec4899">GLAUKS – Final Project (TCC)</span>
 
-### <span style="color: #ec4899">Vion – Desafio dos Dados (2025)</span>
+> <strong style="color: #6d28d9">Graduation Final Project</strong> developed alongside my colleague <strong style="color: #ec4899">Julia Franco</strong>.  
+> We built a mobile app and web platform for <strong>digital collection management</strong> in school libraries.  
+> The project won 🥉 <strong>3rd place</strong> in the <em style="color: #6d28d9">Highlight Project</em> category at the <strong>Projetech</strong> science fair held at <strong>ETEC de Hortolândia</strong>.
 
-> Projeto desenvolvido pelo squad <strong style="color: #6d28d9">Error 504</strong> alcançou o 🥈<strong>2º lugar nacional</strong> no Desafio dos Dados com o protótipo <strong style="color: #ec4899">Vion</strong>.  
-> Uma solução inteligente para diagnóstico de redes domésticas, focada em praticidade e segurança para os usuários.
+### <span style="color: #ec4899">Vion – Data Challenge (2025)</span>
 
-### <span style="color: #6d28d9">Vivo Conecta – Desafio dos Dados (2024)</span>
+> Project developed by squad <strong style="color: #6d28d9">Error 504</strong>, achieving 🥈 <strong>2nd place nationwide</strong> in the Data Challenge with the prototype <strong style="color: #ec4899">Vion</strong>.  
+> An intelligent solution for home network diagnostics, focused on practicality and security for everyday users.
 
-> Projeto desenvolvido pelo squad <strong style="color: #ec4899">Error 504</strong>, alcançou o 🥉<strong> 3º lugar nacional</strong> no Desafio dos Dados da <strong style="color: #6d28d9">Fundação Telefônica Vivo</strong>.  
-> Nosso projeto une tecnologia, inovação e impacto social.
+### <span style="color: #6d28d9">Vivo Conecta – Data Challenge (2024)</span>
 
+> Project developed by squad <strong style="color: #ec4899">Error 504</strong>, reaching 🥉 <strong>3rd place nationwide</strong> in the Data Challenge by <strong style="color: #6d28d9">Fundação Telefônica Vivo</strong>.  
+> Our project combines technology, innovation and social impact.
+
+</div>
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,cs,c,py&theme=dark" />
+
+### Front-end
+<img src="https://skillicons.dev/icons?i=react,html,css,sass&theme=dark" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs&theme=dark" />
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmileCristine&show_icons=true&theme=tokyonight&border_color=ec4899&title_color=ec4899&icon_color=a78bfa&text_color=ffffff&bg_color=0d1117&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmileCristine&layout=compact&theme=tokyonight&border_color=ec4899&title_color=ec4899&text_color=ffffff&bg_color=0d1117&langs_count=8" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EmileCristine&theme=tokyonight&border=ec4899&ring=ec4899&fire=a78bfa&currStreakLabel=ec4899" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmileCristine&theme=tokyo-night&bg_color=0d1117&color=ec4899&line=a78bfa&point=ffffff&area=true" />
 </div>
 
 <br/>
-<br/>
-
-<div align="center">
-  <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="C" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Node.js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emilecristine&theme=dracula&bg_color=00000000&hide_border=true" width="95%"/>
-</div>
-
-<br/><br/>
 
 <h2 align="center">
-  <span style="color: #6d28d9">Connect</span> 
-  <span style="color: #ec4899">with</span> 
+  <span style="color: #6d28d9">Connect</span>
+  <span style="color: #ec4899">with</span>
   <span style="color: #6d28d9">me</span>
 </h2>
 
@@ -90,8 +105,12 @@
   </a>
 </div>
 
-<br/><br/>
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&gradient=6d28d9,ec4899" width="100%"/>
+
+<strong>"Every line of code is an opportunity to create something that matters." 💜</strong>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=twinkling" />
+
 </div>
