@@ -12,12 +12,11 @@
 ```typescript
 const emile: Developer = {
   name:       "Emile Cristine Gomes Nogueira",
-  education:  "Systems Development Technician | Computer Engineering @ PUC Campinas",
+  education:  "Systems Development Technician | Cybersecurity @ PUC Campinas",
   location:   "Hortolândia - SP",
   role:       "Front-end Developer",
   stack:      ["TypeScript", "JavaScript", "React Native", "React", "C#", "C", "Python"],
   achievements: [
-    "3rd place – GLAUKS @ Projetech ETEC Hortolândia",
     "2nd place nationwide – Vion @ Desafio dos Dados 2025",
     "3rd place nationwide – Vivo Conecta @ Desafio dos Dados 2024",
   ],
